@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmployeeRTDB</string>
+    <string name="add_employee">ADD EMPLOYEE</string>
+    <string name="position">POSITION</string>
+    <string name="enter_technology">ENTER TECHNOLOGY</string>
+    <string name="enter_name">ENTER NAME</string>
+</resources>

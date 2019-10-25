@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962412182722",
+    "firebase_url": "https://employeertdb-9dc36.firebaseio.com",
+    "project_id": "employeertdb-9dc36",
+    "storage_bucket": "employeertdb-9dc36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962412182722:android:330c93dba91309af1f0f5b",
+        "android_client_info": {
+          "package_name": "com.example.employeertdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962412182722-v7vgjr8gel5abh0hvo263ame5330i3tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.employeertdb",
+            "certificate_hash": "c863a78c8308100065fe7e8aeb443d9e834d1fff"
+          }
+        },
+        {
+          "client_id": "962412182722-fccb5bfbfe43fjijvgmlotukmlt21h5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hDoeIMnUb1q1lz0CVAZkzCBoq_4rBAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962412182722-fccb5bfbfe43fjijvgmlotukmlt21h5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
