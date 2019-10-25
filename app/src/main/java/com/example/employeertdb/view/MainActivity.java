@@ -10,6 +10,7 @@ import android.widget.EditText;
 import com.example.employeertdb.R;
 import com.example.employeertdb.model.Employee;
 import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 import butterknife.BindView;
 
@@ -33,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        databaseReference = FirebaseDatabase.getInstance().getReference().child("Employees");
 
         buttonAddEmployee.setOnClickListener(new View.OnClickListener() {
             @Override
